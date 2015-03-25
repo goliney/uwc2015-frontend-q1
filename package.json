@@ -1,7 +1,7 @@
 {
   "name": "uwc2015-gitter-bot",
   "version": "1.0.0",
-  "description": "First qualifying round of UWS2015 - Front-end developer | Javascript (Middle/Senior)",
+  "description": "First qualifying round of UWC2015 - Front-end developer | Javascript (Middle/Senior)",
   "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
